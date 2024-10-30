@@ -309,7 +309,7 @@ body {
   width: 68.7vw;
   position: relative;
   left: 30vw;
-  background: url(/asset2/Showreel-2022-preview-1.webp);
+  background: url(./asset2/Showreel-2022-preview-1.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
